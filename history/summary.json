@@ -4,19 +4,19 @@
     "url": "https://ragetech.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/ragetech.xyz.ico",
     "slug": "rage-tech-xyz",
-    "status": "up",
-    "uptime": "6.41%",
-    "uptimeDay": "6.41%",
-    "uptimeWeek": "6.41%",
-    "uptimeMonth": "6.41%",
-    "uptimeYear": "6.41%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "down",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 156,
+    "timeDay": 156,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2022-11-21": 0
+      "2022-11-21": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://mmmyeah.com",
     "icon": "https://icons.duckduckgo.com/ip3/mmmyeah.com.ico",
     "slug": "mmm-yeah-com",
-    "status": "up",
-    "uptime": "9.17%",
-    "uptimeDay": "9.17%",
-    "uptimeWeek": "9.17%",
-    "uptimeMonth": "9.17%",
-    "uptimeYear": "9.17%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "down",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
+    "time": 128,
+    "timeDay": 128,
+    "timeWeek": 128,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {
-      "2022-11-21": 0
+      "2022-11-21": 8
     }
   }
 ]
