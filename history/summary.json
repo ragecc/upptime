@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-30": 35,
+      "2023-03-31": 35,
+      "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 605
     }
@@ -32,13 +33,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 82,
-    "timeDay": 74,
-    "timeWeek": 82,
-    "timeMonth": 82,
-    "timeYear": 82,
+    "time": 85,
+    "timeDay": 91,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {
-      "2023-03-30": 35,
+      "2023-03-31": 35,
+      "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 605
     }
